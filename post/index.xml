@@ -6,7 +6,7 @@
 		<description>Recent content in Posts on www.hero787.ga</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cn</language>
-		<copyright>© Copyright notice | bigban theme for Hugo</copyright>
+		<copyright>© Copyright notice | Bigban theme for Hugo</copyright>
 		<lastBuildDate>Sun, 21 Feb 2021 00:11:21 +0800</lastBuildDate>
 		
 		<atom:link href="https://www.hero787.ga/post/index.xml" rel="self" type="application/rss+xml" />
@@ -33,7 +33,7 @@
 			<description>
 			
 				常用命令
- git init git add -A git commit -m “1.2” git push -f git@github.com:rcy8/rcy8.github.io.git master
+ git init git githubit add -A git commit -m “1.2” git push -f git@github.com:rcy8/rcy8.github.io.git master
  
 			
 			</description>

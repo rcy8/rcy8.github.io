@@ -32,8 +32,7 @@
 			<guid>https://www.hero787.ga/post/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
 			<description>
 			
-				更新系统
- yum update -y 列出已安装 yum list 卸载安装 yum remove xxx 解压缩 tar –zxvf -C (指定目录) 查看网卡传输状态 iftop -i eth0 查看端口占用 netstat -ant v2ray相关 service …
+				更新系统 >yum update -y 列出已安装 >yum list 卸载安装 >yum remove xxx 解压缩 >tar –zxvf -C (指定目录) 查看网卡传输状态 >iftop -i eth0 查看端口占用 >netstat -ant v2ray …
 			
 			</description>
 		</item>

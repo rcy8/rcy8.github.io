@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on 测试笔记</title>
-		<link>http://example.org/post/</link>
-		<description>Recent content in Posts on example.org</description>
+		<link>https://www.hero787.ga/post/</link>
+		<description>Recent content in Posts on www.hero787.ga</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cn</language>
-		<copyright>© Copyright notice | Vitae theme for Hugo</copyright>
+		<copyright>© Copyright notice | bigban theme for Hugo</copyright>
 		<lastBuildDate>Sun, 21 Feb 2021 00:11:21 +0800</lastBuildDate>
 		
-		<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://www.hero787.ga/post/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>市场简报</title>
-			<link>http://example.org/post/%E5%B8%82%E5%9C%BA%E7%AE%80%E6%8A%A5/</link>
+			<link>https://www.hero787.ga/post/%E5%B8%82%E5%9C%BA%E7%AE%80%E6%8A%A5/</link>
 			<pubDate>Sun, 21 Feb 2021 00:11:21 +0800</pubDate>
 			
-			<guid>http://example.org/post/%E5%B8%82%E5%9C%BA%E7%AE%80%E6%8A%A5/</guid>
+			<guid>https://www.hero787.ga/post/%E5%B8%82%E5%9C%BA%E7%AE%80%E6%8A%A5/</guid>
 			<description>
 			
 				市场热力图  北向资金流  北向资金流向板块  期权比值 
@@ -26,10 +26,10 @@
 		</item>
 		<item>
 			<title>测试</title>
-			<link>http://example.org/post/first-post/</link>
+			<link>https://www.hero787.ga/post/first-post/</link>
 			<pubDate>Sun, 21 Feb 2021 00:11:21 +0800</pubDate>
 			
-			<guid>http://example.org/post/first-post/</guid>
+			<guid>https://www.hero787.ga/post/first-post/</guid>
 			<description>
 			
 				常用命令

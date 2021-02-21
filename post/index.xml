@@ -33,7 +33,10 @@
 			<description>
 			
 				常用命令
- git init git githubit add -A git commit -m “1.2” git push -f git@github.com:rcy8/rcy8.github.io.git master
+ git init
+git githubit add -A
+git commit -m “1.2”
+git push -f git@github.com:rcy8/rcy8.github.io.git master
  
 			
 			</description>

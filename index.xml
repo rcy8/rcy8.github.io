@@ -7,10 +7,25 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cn</language>
 		<copyright>© Copyright notice | Bigban theme for Hugo</copyright>
-		<lastBuildDate>Sun, 21 Feb 2021 00:11:21 +0800</lastBuildDate>
+		<lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate>
 		
 		<atom:link href="https://www.hero787.ga/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>备忘笔记</title>
+			<link>https://www.hero787.ga/post/%E7%AC%94%E8%AE%B0/</link>
+			<pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+			
+			<guid>https://www.hero787.ga/post/%E7%AC%94%E8%AE%B0/</guid>
+			<description>
+			
+				shell查询本机ip地址
+ curl https://api.ipify.org?format=json
+  常用代理工具 gost chisel shell常用云盘工具 rclone 百度云盘工具 BaiduPCS-Go shell下载工具 aria2
+
+			
+			</description>
+		</item>
 		<item>
 			<title>市场简报</title>
 			<link>https://www.hero787.ga/post/%E5%B8%82%E5%9C%BA%E7%AE%80%E6%8A%A5/</link>

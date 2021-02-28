@@ -7,10 +7,26 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>zh-cn</language>
 		<copyright>© Copyright notice | Bigban theme for Hugo</copyright>
-		<lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate>
+		<lastBuildDate>Sun, 28 Feb 2021 00:11:21 +0800</lastBuildDate>
 		
 		<atom:link href="https://www.hero787.ga/post/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>市场简报</title>
+			<link>https://www.hero787.ga/post/%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/</link>
+			<pubDate>Sun, 28 Feb 2021 00:11:21 +0800</pubDate>
+			
+			<guid>https://www.hero787.ga/post/%E5%91%BD%E4%BB%A4%E5%A4%87%E5%BF%98/</guid>
+			<description>
+			
+				端口查看命令
+ netstat -ant
+netstat -ltunp
+  用户环境变量文件 ~/.bash_profile
+nginx 配置文件相关命令 nginx -t -c /etc/nginx/nginx.conf nginx -s reload systemctl …
+			
+			</description>
+		</item>
 		<item>
 			<title>备忘笔记</title>
 			<link>https://www.hero787.ga/post/%E7%AC%94%E8%AE%B0/</link>
